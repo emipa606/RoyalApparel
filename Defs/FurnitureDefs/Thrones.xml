@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+<ThingDef ParentName="ArtableFurnitureBase">
+    <defName>RA_Furniture_SimpleThrone</defName>
+    <label>Simple throne</label>
+    <description>A basic throne for your ruler to sit in. note: Pawn cant be forced to sit in it at the moment, you will have to draft them and place them on the chair manualy.</description>
+    <graphicData>
+      <texPath>Things/Furniture/SimpleThrone/SimpleThrone</texPath>
+      <graphicClass>Graphic_Multi</graphicClass>
+      <drawSize>(1.5,1.5)</drawSize>
+      <damageData>
+        <rectN>(0.25,0.234375,0.5,0.28125)</rectN>
+        <rectS>(0.25,0.234375,0.5,0.28125)</rectS>
+        <rectE>(0.28125,0.25,0.453125,0.25)</rectE>
+        <rectW>(0.28125,0.25,0.453125,0.25)</rectW>
+      </damageData>
+      <shadowData>
+        <volume>(0.23, 0.26, 0.23)</volume>
+      </shadowData>
+    </graphicData>
+    <altitudeLayer>Building</altitudeLayer>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToBuild>12000</WorkToBuild>
+      <Mass>8</Mass>
+      <Flammability>1.0</Flammability>
+      <Beauty>12</Beauty>
+      <Comfort>0.70</Comfort>
+    </statBases>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <stuffCategories>
+      <li>Metallic</li>
+      <li>Woody</li>
+	  <li>Stony</li>
+    </stuffCategories>
+    <costStuffCount>150</costStuffCount>
+    <pathCost>90</pathCost>
+    <fillPercent>0.35</fillPercent>
+    <defaultPlacingRot>South</defaultPlacingRot>
+    <building>
+      <isSittable>true</isSittable>
+    </building>
+    <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
+    <researchPrerequisites><li>RA_RoyalApparel</li></researchPrerequisites>
+	<designationCategory>Furniture</designationCategory>
+  </ThingDef>
+
+</Defs>
