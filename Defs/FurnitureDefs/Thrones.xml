@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-<ThingDef ParentName="ArtableFurnitureBase">
+  <ThingDef ParentName="ArtableFurnitureBase">
     <defName>RA_Furniture_SimpleThrone</defName>
     <label>Simple throne</label>
     <description>A basic throne for your ruler to sit in. note: Pawn cant be forced to sit in it at the moment, you will have to draft them and place them on the chair manualy.</description>
@@ -31,7 +31,7 @@
     <stuffCategories>
       <li>Metallic</li>
       <li>Woody</li>
-	  <li>Stony</li>
+      <li>Stony</li>
     </stuffCategories>
     <costStuffCount>150</costStuffCount>
     <pathCost>90</pathCost>
@@ -41,8 +41,9 @@
       <isSittable>true</isSittable>
     </building>
     <constructionSkillPrerequisite>5</constructionSkillPrerequisite>
-    <researchPrerequisites><li>RA_RoyalApparel</li></researchPrerequisites>
-	<designationCategory>Furniture</designationCategory>
+    <researchPrerequisites>
+      <li>RA_RoyalApparel</li>
+    </researchPrerequisites>
+    <designationCategory>Furniture</designationCategory>
   </ThingDef>
-
 </Defs>

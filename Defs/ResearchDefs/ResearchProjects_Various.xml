@@ -1,14 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
-
-	<ResearchProjectDef>
-		<defName>RA_RoyalApparel</defName>
-		<label>Royal apparel and furniture</label>
-		<description>Craft royal apparel and furniture.</description> <!-- adjust text -->
-		<baseCost>1000</baseCost>
-		<techLevel>Medieval</techLevel>
-		<researchViewX>0</researchViewX>
-		<researchViewY>6</researchViewY>
-	</ResearchProjectDef>
-
+  <ResearchProjectDef>
+    <defName>RA_RoyalApparel</defName>
+    <label>Royal apparel and furniture</label>
+    <description>Craft royal apparel and furniture.</description>
+    <!-- adjust text -->
+    <baseCost>1000</baseCost>
+    <techLevel>Medieval</techLevel>
+    <researchViewX>0</researchViewX>
+    <researchViewY>6</researchViewY>
+  </ResearchProjectDef>
 </Defs>
