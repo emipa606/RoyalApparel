@@ -1,8 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <RA_Furniture_SimpleThrone.label>Simple throne</RA_Furniture_SimpleThrone.label>
   <RA_Furniture_SimpleThrone.description>A basic throne for your ruler to sit in. note: Pawn cant be forced to sit in it at the moment, you will have to draft them and place them on the chair manualy.</RA_Furniture_SimpleThrone.description>
-
-
 </LanguageData>

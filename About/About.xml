@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>Royal Apparel (Continued)</name>
   <packageId>Mlie.RoyalApparel</packageId>
@@ -8,59 +8,64 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of tomis mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of tomis mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1907187683
 
-Support-chat:
-https://discord.gg/SuhwVpM
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Non-steam version:
-https://github.com/emipa606/RoyalApparel
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/RoyalApparel][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
-This mod adds three types of crowns and a throne at the moment. I plan to add more types of crowns, even wooden ones, and other types of royal apparel. Also this is my first mod, and my textures arent exactly best, if there is any artist who would like to contribute please contact me. I am also opened to suggestions, please list them bellow. Thank you 
+[img]https://i.imgur.com/NOW7jU1.png[/img]
 
-Also if you are familiar with c# and would like to take part in this project, please contact me
+This mod adds three types of crowns and a throne at the moment. This mod has been discontinued and I wont be working on it anymore, ownership was transfered to Mlie.
 
-Currently contains:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2022544087
 
-Simple Crown (Regular and small)
+[h1]Currently contains:[/h1]
+
+[b]Simple Crown (Regular and small)[/b] 
 - requiers: crafting 8, is made in fueled or electric smithy from any metal
 - effects: +20% Social impact, +25% trading price
 - cost 25
 - requires research
 
-Pointy Crown (Regular and small)
+[b]Pointy Crown (Regular and small)[/b] 
 - requiers: crafting 8, is made in fueled or electric smithy from any metal
 - effects: +20% Social impact, +25% trading price
 - cost 30
 - requires research
 
-Emperor Crown
+[b]Emperor Crown[/b] 
 - requiers: crafting 12, is made in fueled or electric smithy from any metal
 - effects: +25% Social impact, +30% trading price
 - cost 50
 - requires research
 
-Simple throne
+[b]Simple throne[/b] 
 - requiers: construction 5, is made in from any metal, wood or stone
 - cost 150
 - requires research
 
 
-Plan to add:
-
-- king/queen slection menu, being a king/queen will allow wearing royal apparel, there will be a limit of 1 king/queen and his/her partner
-- more crowns, small variant to each crown
-- scepters
-- coats and dressess
-- thrones
-- banners
-
-Any suggestions for balancing please post bellow
-
-PS: thank you for over 100 downloads you are all amazing </description>
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+

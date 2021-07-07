@@ -1,34 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
   <!-- +++++ Simple Crown +++++ -->
-
   <RA_Headgear_SimpleCrown.label>Simple crown</RA_Headgear_SimpleCrown.label>
   <RA_Headgear_SimpleCrown.description>Simple crown, makes you look mighty and charismatic, traders will be more likely to give you better price to apeal to you.</RA_Headgear_SimpleCrown.description>
-
-
   <!-- +++++ Small Simple Crown +++++ -->
-
   <RA_Headgear_SimpleCrownSmall.label>Simple crown small</RA_Headgear_SimpleCrownSmall.label>
   <RA_Headgear_SimpleCrownSmall.description>Simple crown, makes you look mighty and charismatic, traders will be more likely to give you better price to apeal to you.</RA_Headgear_SimpleCrownSmall.description>
-
-
   <!-- +++++ Pointy Crown +++++ -->
-
   <RA_Headgear_PointyCrown.label>Pointy crown</RA_Headgear_PointyCrown.label>
   <RA_Headgear_PointyCrown.description>Pointy crown, makes you look mighty and charismatic, traders will be more likely to give you better price to apeal to you.</RA_Headgear_PointyCrown.description>
-
-
   <!-- +++++ Small Pointy Crown +++++ -->
-
   <RA_Headgear_PointyCrownSmall.label>Pointy crown small</RA_Headgear_PointyCrownSmall.label>
   <RA_Headgear_PointyCrownSmall.description>Pointy crown, makes you look mighty and charismatic, traders will be more likely to give you better price to apeal to you.</RA_Headgear_PointyCrownSmall.description>
-
-
   <!-- +++++ Emperor Crown +++++ -->
-
   <RA_Headgear_EmperorCrown.label>Emperor crown</RA_Headgear_EmperorCrown.label>
   <RA_Headgear_EmperorCrown.description>Emperor crown, makes you look SUPER mighty and charismatic, traders will be more likely to give you better price to apeal to you.</RA_Headgear_EmperorCrown.description>
-
-
 </LanguageData>
