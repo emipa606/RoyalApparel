@@ -1,5 +1,8 @@
 # Changelog for RoyalApparel
 
+1.4.2 - Added royalty and ideology attributes based on the existing crowns in royalty, if loaded
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 
