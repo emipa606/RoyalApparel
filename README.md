@@ -5,6 +5,8 @@
 Update of tomis mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1907187683
 
+- Added Royalty and Ideology properties based on the existing crowns in Royalty
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	
@@ -54,6 +56,4 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2022544087
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
-
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2022544087]Last updated 2023-07-07
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2022544087]Last updated 2023-07-22

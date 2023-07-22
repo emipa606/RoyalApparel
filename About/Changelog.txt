@@ -1,5 +1,8 @@
 # Changelog for RoyalApparel
 
+1.4.3 - Last publish failed the steam-upload for some reason
+
+
 1.4.2 - Added royalty and ideology attributes based on the existing crowns in royalty, if loaded
 
 
