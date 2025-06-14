@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2829303560
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 818d519707a426a31a78d4ad57035596
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 818d519707a426a31a78d4ad57035596
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/SimpleCrown/SimpleCrown_north.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/SimpleCrownSmall/SimpleCrownSmall_north.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/PointyCrownSmall/PointyCrownSmall_east.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/SimpleCrown/SimpleCrown_south.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Furniture/SimpleThrone/SimpleThrone_south.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/SimpleCrown/SimpleCrown.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/PointyCrown/PointyCrown.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/PointyCrownSmall/PointyCrownSmall_south.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Furniture/SimpleThrone/SimpleThrone_north.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/PointyCrownSmall/PointyCrownSmall.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/PointyCrown/PointyCrown_north.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/SimpleCrown/SimpleCrown_east.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/EmperorCrown/EmperorCrown_east.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/SimpleCrownSmall/SimpleCrownSmall_east.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/PointyCrownSmall/PointyCrownSmall_north.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/PointyCrown/PointyCrown_east.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/EmperorCrown/EmperorCrown_north.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/SimpleCrownSmall/SimpleCrownSmall.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/EmperorCrown/EmperorCrown_south.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/PointyCrown/PointyCrown_south.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/SimpleCrownSmall/SimpleCrownSmall_south.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Furniture/SimpleThrone/SimpleThrone_east.png
+- Assets/Data/Mlie.RoyalApparel/Textures/Things/Headgear/EmperorCrown/EmperorCrown.png
+Dependencies: []
